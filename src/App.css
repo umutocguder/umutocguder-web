@@ -1,0 +1,91 @@
+.App {
+  text-align: center;
+ 
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+a{
+  color: white;
+  font-size: medium;
+}
+p{
+margin-left: 10px;
+margin-right: 10px;
+}
+.name{
+  float: center;
+  margin-top: 15px;
+  display: inline-block;
+}
+.App-link {
+  color: #61dafb;
+}
+.logom{
+  border-radius: 20%;
+  height: 50px;
+  width: 50px;
+  margin-top: 5px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+.courses{
+
+  margin-top: 22px;
+  margin-bottom: 30px;
+  float: right;
+}
+.navbar{
+  float: right;
+  width: 300px;
+
+}
+.imagem{
+  margin-top: 18px;
+  border-radius: 40%;
+  height: 40%;
+  width:40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.aralik{
+  margin-bottom: -8px;
+}
+h5{
+  font-size: 10;
+}
+h1{
+  font-family: 'Courier New', monospace;
+  padding-bottom: -50px;
+  margin-bottom: 0px;
+}
+.asd{
+  width:15%;
+  height: 15%;
+  margin-right: 5px;
+  margin-left: 5px;
+  border-radius: 100%;
+}
+.socials{
+  float:left;
+}
+.buttons{
+  float: left;
+  display: inline-block;
+  color: blue;
+  text-decoration-color: #61dafb;
+  margin-right:10px;
+  margin-left:10px
+}
