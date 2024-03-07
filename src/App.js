@@ -109,12 +109,7 @@ function App() {
 
         <h1 className="name">HI I'M UMUT ÖÇGÜDER</h1>
         <img className="imagem" src={logo} alt="Logo" />
-        <h3 className="aralik">Engineer/Developer</h3>
-        <h5>
-          I am 22 years old, energetic, newly graduated software engineer. I
-          have sociability, adaptability and fast learning skills. I aim for a
-          long and successful career.
-        </h5>
+        <h3 className="aralik">iOS Developer</h3>
         <div className="buttons">
           <div className="buttons">
             <Button
@@ -170,7 +165,7 @@ function App() {
         <div className="socials">
           <a
             className="App-link"
-            href="https://linkedin.com/in/umutocgdr"
+            href="https://linkedin.com/in/umutocguder"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -178,7 +173,7 @@ function App() {
           </a>
           <a
             className="App-link"
-            href="https://github.com/umutocgdr"
+            href="https://github.com/umutocguder"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -197,7 +192,7 @@ function App() {
         <div className="socials">
           <a
             className="App-link"
-            href="  https://www.instagram.com/umutocgdr/"
+            href="  https://www.instagram.com/umutocguder/"
             target="_blank"
             rel="noopener noreferrer"
           >
